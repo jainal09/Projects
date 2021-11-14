@@ -1,5 +1,5 @@
 # PROJECTS
-[My GitHub highlights better ideas on the things I've worked on]
+[**My GitHub** highlights better ideas on the things I've worked on]
 ## Semantic Neural Search (Research Project)
 -   In this research project, we wanted to solve one of the most neglected, faced and important issue of searching media files like document, ebook, images, audio, videos.
 -   Implemented **32 Repositories** having **28 microservices** containing state of the art **deep learning model** inference servers, in just mere 3 months. Features includes scalable large scale indexing of media files, 30-40 ms **deep ranking based search**, reverse-image search, reverse-face search, face-recognition search, reverse audio-search, typo-tolerant text search.
