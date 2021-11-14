@@ -1,4 +1,3 @@
-### Below are the List of All the Projects I have made / Collaborated (excluding iternships and full time projects)
 
 ## Semantic Neural Search (Research Project)
 -   In this research project, we wanted to solve one of the most neglected, faced and important issue of searching media files like document, ebook, images, audio, videos.
